@@ -1,4 +1,4 @@
-import lab1
+
 import json
 import re
 import sys
